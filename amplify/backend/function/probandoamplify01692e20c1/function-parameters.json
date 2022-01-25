@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "auth": {
+      "probandoamplify01": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}

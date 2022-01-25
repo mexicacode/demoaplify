@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "paths": {
+    "/item": {
+      "name": "/item",
+      "lambdaFunction": "probandoamplify0113370149",
+      "permissions": {
+        "setting": "private",
+        "auth": [
+          "create",
+          "read",
+          "update",
+          "delete"
+        ]
+      }
+    },
+    "/libros": {
+      "name": "/libros",
+      "lambdaFunction": "probandoamplify01692e20c1",
+      "permissions": {
+        "setting": "private",
+        "auth": [
+          "create",
+          "read",
+          "update",
+          "delete"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-probandoamplify01-dev-152448-authRole",
+      "UnauthRoleArn": "arn:aws:iam::891652560553:role/amplify-probandoamplify01-dev-152448-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::891652560553:role/amplify-probandoamplify01-dev-152448-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-probandoamplify01-dev-152448-deployment",
+      "UnauthRoleName": "amplify-probandoamplify01-dev-152448-unauthRole",
+      "StackName": "amplify-probandoamplify01-dev-152448",
+      "StackId": "arn:aws:cloudformation:us-east-1:891652560553:stack/amplify-probandoamplify01-dev-152448/10d3c520-7d5c-11ec-bbd6-0a10261f571d",
+      "AmplifyAppId": "d263ho1f09kvcw",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-probandoamplify01-dev-152448-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "undefined": {}
+      },
+      "function": {
+        "probandoamplify01692e20c1": {
+          "deploymentBucketName": "amplify-probandoamplify01-dev-152448-deployment",
+          "s3Key": "amplify-builds/probandoamplify01692e20c1-68694c37525936376a61-build.zip"
+        },
+        "probandoamplify0113370149": {
+          "deploymentBucketName": "amplify-probandoamplify01-dev-152448-deployment",
+          "s3Key": "amplify-builds/probandoamplify0113370149-424b71587a6e376a7155-build.zip"
+        }
+      }
+    }
+  }
+}
